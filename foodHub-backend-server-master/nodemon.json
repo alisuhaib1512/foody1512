@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "alisuhaib",
+    "MONGO_PASSWORD": "alisuhaib",
+    "MONGO_DATABASE": "omnifood",
+    "SENDGRID_KEY": "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"
+  }
+}
