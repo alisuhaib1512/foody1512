@@ -1,7 +1,3 @@
-# foodHub-backend
-Restful APIs for Food Delivery application developed using Nodejs &amp; Express
-
-## Getting started
 To get the Node server running locally:
 
 * Clone this repo
